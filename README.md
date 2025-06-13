@@ -1,51 +1,24 @@
-<!-- README.md para perfil do GitHub Murilo Albuquerque -->
+# Murilo Albuquerque
 
-<h1 align="center">Murilo Albuquerque 🚀</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/murilo-albuquerque-dev/">LinkedIn</a> •
-  <a href="https://github.com/muriloalbuquerque">GitHub</a> •
-  <a href="mailto:muriloalbuquerquemartins@gmail.com">E-mail</a>
-</p>
-
-## 👋 Hello, World!
-
-Sou **Murilo Albuquerque**, desenvolvedor backend (Kotlin, Spring Boot, PostgreSQL, Docker, Cloud) e apaixonado por tecnologia, APIs e soluções SaaS.  
-Atualmente desenvolvo projetos próprios e freelas, sempre focando em segurança, escalabilidade e automação.  
-Adoro aprender, compartilhar conhecimento e enfrentar desafios reais de engenharia de software!
-
-- 💻 **Stack principal:** Kotlin, Spring Boot, PostgreSQL, Docker, Cloud, React
-- 📊 Gosto de construir SaaS, APIs seguras e automações
-- 🔍 Apaixonado por clean code, documentação e testes automatizados
-- 📚 Estudante de Engenharia de Software (FIAP)
-- 🤝 Aberto a oportunidades, parcerias e networking
-- 🌍 Maceió, AL - Brasil
-
-## 📌 Alguns projetos em destaque
-
-- [Fatura Rápida (SaaS de automação de faturas)](https://github.com/muriloalbuquerque/fatura-rapida-api)
-- [TrustRoute (gestão de links/redirecionamento seguro)](https://www.trustroute.shop/admin)
-- Outros projetos e estudos em breve...
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-albuquerque-dev/)](https://www.linkedin.com/in/murilo-albuquerque-dev/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white&link=https://github.com/muriloalbuquerque)](https://github.com/muriloalbuquerque)
+[![X Badge](https://img.shields.io/badge/-X-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/MuriloAlbu13279)](https://x.com/MuriloAlbu13279)
 
 ---
 
-## 🏆 Certificados & cursos
+## Hello World! 
 
-Em breve: [Lista pública de cursos e certificações](#) <!-- Troque pela URL real quando criar -->
+I'm Murilo Albuquerque, a Brazilian backend developer passionate about solving problems with technology and creating secure, scalable solutions using **Kotlin**, **Spring Boot**, **Docker**, **React**, and **AWS**.
+
+I love building SaaS products, APIs, and automation for real-world needs. Always looking for new challenges, global opportunities, and ways to grow as a developer.
+
+- 💻 I enjoy sharing and collaborating on practical projects.
+- ⚽ Passionate about football, Flamengo supporter ❤️🖤
+- 🥊 Boxing enthusiast & Harry Potter fan
+- 🚀 Always exploring new stacks, cloud, and DevOps
+- 🤝 Open to job opportunities, freelancing, and networking
+
+Let's connect and create something awesome together!  
 
 ---
-
-## ⚡ Fun Facts
-
-- 🏆 Gosto de desafios, hackathons e tudo que envolva resolver problemas com código
-- 🚀 Meu lema: tecnologia para facilitar a vida real
-- 🤓 Sempre estudando novas stacks, cloud e devops
-
----
-
-### 📞 Contato
-
-- Email: **muriloalbuquerquemartins@gmail.com**
-- WhatsApp: **(82) 99617-6371**
-- LinkedIn: [murilo-albuquerque-dev](https://www.linkedin.com/in/murilo-albuquerque-dev/)
 
